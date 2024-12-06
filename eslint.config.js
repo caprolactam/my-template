@@ -13,5 +13,4 @@ export default [
   ...defaultConfig,
   eslintConfigPrettier,
   includeIgnoreFile(gitignorePath),
-  // add custom config objects here:
 ]
